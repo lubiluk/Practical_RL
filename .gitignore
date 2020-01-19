@@ -75,3 +75,10 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+
+
+
+# Editor and environment
+.venv
+.vscode/*
+.history
